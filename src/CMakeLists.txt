@@ -29,6 +29,8 @@ if(${QT_VERSION_MAJOR} GREATER_EQUAL 6)
         instruction.h instruction.cpp instruction.ui
         scl_90.h scl_90.cpp scl_90.ui
         question.h question.cpp
+        ../resources/Questions.dat
+        questions.qrc
     )
 # Define target properties for Android with Qt 6 as:
 #    set_property(TARGET SCL-90 APPEND PROPERTY QT_ANDROID_PACKAGE_SOURCE_DIR

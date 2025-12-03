@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Release-c2964a58ff609ab4d341.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "SCL-90",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "SCL-90::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SCL-90-Release-d1f68461f9d26f0573a0.json",
+					"name" : "SCL-90",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "SCL-90_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SCL-90_autogen-Release-034a90a340cc84918daf.json",
+					"name" : "SCL-90_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "SCL-90_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SCL-90_autogen_timestamp_deps-Release-5e784b27758ff128686a.json",
+					"name" : "SCL-90_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/ycfnc/Documents/GitHub/SCL-90_Scale/src/build/Desktop_Qt_6_9_2_MinGW_64_bit-Release",
+		"source" : "C:/Users/ycfnc/Documents/GitHub/SCL-90_Scale/src"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

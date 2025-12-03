@@ -1,5 +1,5 @@
-C:/Users/ycfnc/Documents/SCL-90_scale/src/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/SCL-90_autogen/EWIEGA46WW/moc_agreement.cpp: C:/Users/ycfnc/Documents/SCL-90_scale/src/agreement.h \
-  C:/Users/ycfnc/Documents/SCL-90_scale/src/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/SCL-90_autogen/moc_predefs.h \
+C:/Users/ycfnc/Documents/GitHub/SCL-90_Scale/src/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/SCL-90_autogen/EWIEGA46WW/moc_agreement.cpp: C:/Users/ycfnc/Documents/GitHub/SCL-90_Scale/src/agreement.h \
+  C:/Users/ycfnc/Documents/GitHub/SCL-90_Scale/src/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/SCL-90_autogen/moc_predefs.h \
   C:/Qt/6.9.2/mingw_64/include/QtCore/q17memory.h \
   C:/Qt/6.9.2/mingw_64/include/QtCore/q20functional.h \
   C:/Qt/6.9.2/mingw_64/include/QtCore/q20iterator.h \

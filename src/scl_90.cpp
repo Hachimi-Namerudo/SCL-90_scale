@@ -18,12 +18,12 @@ SCL_90::SCL_90(QWidget *parent)
     ui->submit->hide();
     dimScore.resize(10);
     ui->Main_table->setAlternatingRowColors(1);
-    QString path = "../resources/Questions.txt";     //应该好了吧
+    QString path = ":/questions/Questions.dat";     //应该好了吧
     QFile f(path);
     if(!f.open(QIODevice::ReadOnly | QIODevice::Text))
     {
         QMessageBox::warning(this, "提示",
-                             QString("源文件读取失败，请检查目录中是否包含Questions.txt\n\n路径：%1\n错误：%2")
+                             QString("源文件读取失败，请检查目录中是否包含Questions.dat\n\n路径：%1\n错误：%2")
                                  .arg(path).arg(f.errorString()));
         return;
     }

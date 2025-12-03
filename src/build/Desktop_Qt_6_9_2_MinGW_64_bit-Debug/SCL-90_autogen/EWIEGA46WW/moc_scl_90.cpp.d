@@ -1,5 +1,5 @@
-C:/Users/ycfnc/Documents/SCL-90_scale/src/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/SCL-90_autogen/EWIEGA46WW/moc_scl_90.cpp: C:/Users/ycfnc/Documents/SCL-90_scale/src/scl_90.h \
-  C:/Users/ycfnc/Documents/SCL-90_scale/src/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/SCL-90_autogen/moc_predefs.h \
+C:/Users/ycfnc/Documents/GitHub/SCL-90_Scale/src/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/SCL-90_autogen/EWIEGA46WW/moc_scl_90.cpp: C:/Users/ycfnc/Documents/GitHub/SCL-90_Scale/src/scl_90.h \
+  C:/Users/ycfnc/Documents/GitHub/SCL-90_Scale/src/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/SCL-90_autogen/moc_predefs.h \
   C:/Qt/6.9.2/mingw_64/include/QtCore/QFile \
   C:/Qt/6.9.2/mingw_64/include/QtCore/QList \
   C:/Qt/6.9.2/mingw_64/include/QtCore/QObject \
@@ -440,4 +440,4 @@ C:/Users/ycfnc/Documents/SCL-90_scale/src/build/Desktop_Qt_6_9_2_MinGW_64_bit-De
   C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/vadefs.h \
   C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/wchar.h \
   C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/wctype.h \
-  C:/Users/ycfnc/Documents/SCL-90_scale/src/Question.h
+  C:/Users/ycfnc/Documents/GitHub/SCL-90_Scale/src/Question.h
